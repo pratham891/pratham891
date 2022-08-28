@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Singh</h1>
-<h3 align="center">Web Developer | JavaScript | Competitive Programmer</h3>
+<h3 align="center">Web Developer & Competitive Programmer</h3>
 
 - 💬 Ask me about **JavaScript, CSS**
 
