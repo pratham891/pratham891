@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **prathambsingh891@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/PrathamSinghResume](bit.ly/PrathamSinghResume)
+[comment] <> (- 📄 Know about my experiences [bit.ly/PrathamSinghResume](bit.ly/PrathamSinghResume))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
