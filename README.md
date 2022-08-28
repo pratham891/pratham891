@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **prathambsingh891@gmail.com**
 
-[comment] <> (- 📄 Know about my experiences [bit.ly/PrathamSinghResume](bit.ly/PrathamSinghResume))
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/singhpratham891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singhpratham891" height="30" width="40" /></a>
