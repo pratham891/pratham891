@@ -20,4 +20,5 @@
 
 <h3 align="left">Holopin Badge Board:</h3>
 
-[![@pratham891's Holopin board](https://holopin.io/api/user/board?user=pratham891)](https://holopin.io/@pratham891)
+[![An image of @pratham891's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham891)](https://holopin.io/@pratham891)
+
